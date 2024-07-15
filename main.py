@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## Password Generator Android App
-## Developer: https://github.com/Kourva
+## Developer: https://github.com/kozyol
 
 # Imports
 import random
